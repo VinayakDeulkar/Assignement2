@@ -1,0 +1,104 @@
+.logo{
+    height: 30px;
+}
+
+body{
+    background-color: azure;
+}
+.fonts{
+    font-size: 25px;
+    border-radius: 20px;
+}
+.head{
+    bottom: 220px;
+    right: 800px;
+    left: 130px;
+}
+.dark{
+    font-size: 72px;
+}
+.it{
+    font-style:italic ;
+    font-weight: 30px;
+   
+}
+.fa-arrow-left{
+    padding: 5px;
+    height: 50px;
+    width:90px;
+}
+.fa-arrow-right{
+    
+    height: 40px;
+    width:50px;
+}
+
+.img{
+    height: 50px;
+    width: 70px;
+}
+.arro{
+    background-color: rgb(9, 155, 212);
+}
+
+.footer{
+    height: auto;
+    background-color:#181818;
+
+}
+
+.backg{
+    height: 700px;
+    width: 100%;
+    opacity: 0.4;
+}
+
+.foot{
+    bottom: 220px;
+}  
+.black{
+    background-color: #181818;
+   
+}
+.b{
+    color: blue;
+    font-size: 6px;
+}
+.r{
+    color: red;
+    font-size: 6px;
+}
+.y{
+    color: yellow;
+    font-size: 6px;
+}
+.sky{
+    background-color: skyblue;
+}
+.pink{
+    background-color: rgb(248, 1, 236);
+}
+.voilet{
+    background-color: slateblue;
+}
+.darkred{
+    background-color: red;
+}
+.fnt{
+    font-size: 20px;
+    height: 50px;
+    padding:10px ;
+}
+.cardimg{
+    height: 40px;
+    width: 60px;
+}
+.ttxt{
+    margin-right: 330px;
+    margin-left: 330px;
+    opacity: 0.6;
+}
+
+.left{
+    margin: 0px;
+}

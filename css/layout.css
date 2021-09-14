@@ -1,0 +1,200 @@
+.logo{
+    height: 30px;
+}
+
+body{
+    background-color: azure;
+}
+.fonts{
+    font-size: 25px;
+    border-radius: 20px;
+}
+.dark{
+    font-size: 72px;
+}
+.it{
+    font-style:italic ;
+    font-weight: 30px;
+   
+}
+b{
+    color: blue;
+    font-size: 30px;
+}
+.head{
+    bottom: 220px;
+    right: 800px;
+    left: 130px;
+}
+.foot{
+    bottom: 220px;
+}  
+
+
+.img{
+    height: 50px;
+    width: 70px;
+}
+.arro{
+    background-color: rgb(9, 155, 212);
+}
+
+.fa-arrow-left{
+    padding: 5px;
+    height: 50px;
+    width:90px;
+}
+.fa-arrow-right{
+    
+    height: 40px;
+    width:50px;
+}
+.rowsetting{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn{
+    border-radius: 0;
+}
+.center{
+    text-align: center;
+}
+.fon{
+    font-size: 12px;
+}
+.card-title{
+    font-size: 15px;
+}
+.red{
+    color: red;
+    font-size: 12px;
+}
+.back{
+    background-color: white;
+    height: 250px;
+    width:80;
+}
+#im{
+    height: 250px;
+    width:80;
+}
+
+.bor{
+    border: 1px solid gray;
+}
+.r{
+    color: red;
+    font-size: 6px;
+}
+.y{
+    color: yellow;
+    font-size: 6px;
+}
+.yy{
+    color: yellow;
+}
+.b{
+    color: blue;
+    font-size: 6px;
+}
+.s{
+    color: yellow;
+    font-size: 18px;
+}
+.tulos{
+    font-size: 40px;
+}
+.colr{
+    font-size: 40px;
+    color: red;
+}
+.bx{
+    border: 1px solid gray;
+}
+.countdown-container{
+    display: flex;
+}
+.big-text{
+    font-size: 25px;
+}
+.countdown-container>div{
+    margin: 0 2rem;
+    text-align: center;
+    border: 2px solid black;
+    padding: 0px 20px;
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.5);
+    box-sizing:border-box ;
+    
+    min-width: 50px;
+}
+
+.insta{
+    height: 200px;
+    width: 230px;
+}
+
+.bgc{
+    background-color: rgb(226, 223, 223);
+    padding-top: 10px;
+}
+
+#immg{
+    height: 140px;
+    width: 160px;
+    border: rgb(226, 226, 226);
+}
+.imag{
+    float: left;
+}
+.borr{
+    border: 1px solid rgb(201, 200, 200);
+    padding: 5px;
+}
+
+.rd{
+    color: red;
+}
+.rect{
+    height: 160px;
+}
+
+.footer{
+    height: auto;
+    background-color:#181818;
+
+}
+.backg{
+    height: 700px;
+    width: 100%;
+    opacity: 0.4;
+}
+.sky{
+    background-color: skyblue;
+}
+.pink{
+    background-color: rgb(248, 1, 236);
+}
+.voilet{
+    background-color: slateblue;
+}
+.darkred{
+    background-color: red;
+}
+.black{
+    background-color: #181818;
+   
+}
+.fnt{
+    font-size: 20px;
+    height: 50px;
+    padding:10px ;
+}
+.ttxt{
+    margin-right: 330px;
+    margin-left: 330px;
+    opacity: 0.6;
+}
+.cardimg{
+    height: 40px;
+    width: 60px;
+}
